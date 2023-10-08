@@ -1,2 +1,2 @@
 # Problem-1
-Design Tasks
+Software   used -   Figma
